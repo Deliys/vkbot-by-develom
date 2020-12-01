@@ -1,7 +1,7 @@
 import vk_api
 import random
 import time
-#если вы не знаете что вообще за токен то посмотрите мой первый ролик на эту тему https://studio.youtube.com/video/DVKImJXVEDQ/edit
+#если вы не знаете что вообще за токен то посмотрите мой первый ролик на эту тему https://www.youtube.com/watch?v=n-b6HJ5R1c4&feature=youtu.be
 token = "ваш токен"
 
 
